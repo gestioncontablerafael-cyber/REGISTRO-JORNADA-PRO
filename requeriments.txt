@@ -1,0 +1,17 @@
+python-telegram-bot==20.7
+supabase==2.4.0
+postgrest==0.16.3
+
+pandas
+numpy
+
+reportlab
+matplotlib
+
+flask
+apscheduler
+
+openpyxl
+
+qrcode
+pillow

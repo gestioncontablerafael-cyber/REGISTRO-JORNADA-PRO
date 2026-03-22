@@ -1,0 +1,11 @@
+[Unit]
+Description=Bot Control Horario Telegram
+After=network.target
+
+[Service]
+WorkingDirectory=/root/control_horario_bot
+ExecStart=/usr/bin/python3 bot.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

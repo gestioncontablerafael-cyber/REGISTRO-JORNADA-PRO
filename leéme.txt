@@ -1,0 +1,4 @@
+py -3.12 bot.py 
+
+
+el bot lo arranco con el comando de arriba
